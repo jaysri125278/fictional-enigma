@@ -1,3 +1,5 @@
+/*c program to check whether an integer is Armstrong number or not. */
+
 #include<stdio.h>
 
 int main() {
